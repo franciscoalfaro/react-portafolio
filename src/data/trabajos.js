@@ -1,27 +1,27 @@
 export const trabajos = [
     {
-        'id':'tiendaprueba',
-        'nombre':'Tienda prueba',
-        'url':'www.tiendaprueba.cl',
-        'tecnologias':'HTML, CSS ,JS, PHP, MySQL',
+        'id':'redsocial',
+        'nombre':'Red Social',
+        'url':'www.testsocial.org',
+        'tecnologias':'HTML, CSS ,JS, React, MERN',
         'categorias':'Desarrollo web',
-        'descripcion':'at urna condimentum mattis pellentesque id nibh tortor id aliquet lectus proin nibh nisl condimentum id venenatis a condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus et malesuada'
+        'descripcion':'Red Social desarrollada con MERN en back-end y Front-end Reactjs+Vite '
     },  
     {
-        'id':'babys',
-        'nombre':'Babys',
-        'url':'www.babys.cl',
-        'tecnologias':'HTML, CSS ,JS, PHP, MySQL',
+        'id':'comogasto',
+        'nombre':'Como Gasto',
+        'url':'www.comogasto.com',
+        'tecnologias':'HTML, CSS ,JS, React, MERN',
         'categorias':'Desarrollo web',
-        'descripcion':'at urna condimentum mattis pellentesque id nibh tortor id aliquet lectus proin nibh nisl condimentum id venenatis a condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus et malesuada'
+        'descripcion':'Plataforma desarrollada con MERN en back-end y Front-end Reactjs+Vite, esta plataforma esta contemplada para llevar un control de los gastos de los usuarios dia a dia permitiendo llevar el control de los gastos mensualmente '
     },
     {
-        'id':'firstbabys',
-        'nombre':'First babys',
-        'url':'www.firstbabys.com',
+        'id':'blog',
+        'nombre':'My Blog',
+        'url':'blogpersonal',
         'tecnologias':'HTML, CSS ,JS, PHP, MySQL',
         'categorias':'Desarrollo web',
-        'descripcion':'at urna condimentum mattis pellentesque id nibh tortor id aliquet lectus proin nibh nisl condimentum id venenatis a condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus et malesuada'
+        'descripcion':'Primer proyecto realizado, el cual corresponde a un blog personal'
     }
 
 ];
